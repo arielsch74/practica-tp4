@@ -61,3 +61,4 @@ app.MapDelete("/api/tareas/{id:int}", async (AppDbContext db, int id) =>
 app.Run();
 
 public record TareaNueva(string? Titulo);
+// TODO: endpoint de salud
