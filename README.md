@@ -1,3 +1,5 @@
+[![CI](https://github.com/arielsch74/practica-tp4/actions/workflows/ci.yml/badge.svg)](https://github.com/arielsch74/practica-tp4/actions/workflows/ci.yml)
+
 # demo-fullstack
 
 Sample full-stack de la cátedra **Ingeniería del Software 3 — UCC**. Es la app de referencia que se usa en las demos en vivo de las clases: chica a propósito, con la misma estructura que las guías de TP asumen para tu app del semestre.
